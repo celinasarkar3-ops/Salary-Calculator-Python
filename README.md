@@ -31,4 +31,5 @@ This project is created for **practice and learning purposes** and is suitable f
 4. Run the command:
 
 ```bash
-python i5.py
+salary_calculator.py
+
