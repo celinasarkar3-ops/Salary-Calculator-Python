@@ -20,7 +20,7 @@ while True:
     print(f'{Employee} Salary Details:')
     print(f"Gross Salary: {Gross_salary}")
     print(f"Tax Amount: {Tax_Amount}")
-
+    print(f"Net Salary: {Net_Salary}")
 
 
     choice = input("Do you want to add another employee? (yes/no): ").strip().lower()
