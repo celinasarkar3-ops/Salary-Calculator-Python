@@ -1,0 +1,23 @@
+------------------------
+
+===== Salary Calculator Menu =====
+1. Add Employee
+2. View All Employees
+3. Employee with Highest Net Salary
+4. Summary Report
+5. Exit
+Enter your choice (1-5): 1
+Enter Employee Name: celina sarkar
+Enter your Salary: 45000
+Enter your bonus Amount: 5000
+Enter your Tax rate(%): 6
+
+------------------------
+Employee Salary Details
+------------------------
+
+Name         : celina sarkar
+Gross Salary : 50000.00
+Tax Amount   : 3000.00
+Net Salary   : 47000.00
+------------------------
